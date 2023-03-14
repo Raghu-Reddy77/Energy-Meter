@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(loginbackground.png);
+}
+header {
+    background-color: #81f3f3;
+    color: rgb(0, 0, 0);
+    width: 40%;
+    margin: auto;
+    text-align: center;
+}
+
+h1{
+    font-size: 60px ;
+    margin: 10px 10px;
+}
+.container{
+    text-align: center;
+    border: 5px solid green;
+    width: 90%;
+    margin: auto;
+    background-color: bisque;
+}
